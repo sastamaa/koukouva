@@ -189,16 +189,6 @@
          "action": "video:http://www.sw.vidce.net/d/h4fVnywMWy65Xo01g7ZvgA79.131.136.123/1691489106/video/2015/tt2953050GR.mp4"
       },
       {
-         "title": "Kizazi Moto: Γενιά Φωτιά",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/s3zL1YZrUTUUQtJFXAyEANAWxBR.jpg",
-         "playerLabel": "Kizazi Moto: Γενιά Φωτιά",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/series/kizazi_moto.json"
-      },
-      {
          "title": "Monstermania",
          "titleFooter": "2021",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
