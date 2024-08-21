@@ -36,7 +36,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/c0PYz2lBEzItrOw18PNJ4pAUUij.jpg",
          "playerLabel": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/parts/harry_potter.json"
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/parts/harry_potter.json"
       },
       {
          "title": "Η Μαγεμένη 2",
