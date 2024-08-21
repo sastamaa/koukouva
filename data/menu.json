@@ -10,17 +10,17 @@
       },
       {
          "icon": "movie",
-         "label": "Movies",
+         "label": "Ταινίες",
          "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
           },
       {
          "icon": "subscriptions",
-         "label": "Series",
+         "label": "Σειρές",
          "data": "https://sastamaa.github.io/msx/data/base/series/list.json"
           },
       {
          "icon": "sentiment-satisfied-alt",
-         "label": "Kids",
+         "label": "Κινούμενα Σχέδια",
          "data": "https://sastamaa.github.io/msx/data/base/kids/list.json"
       }
    ]
