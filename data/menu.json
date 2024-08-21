@@ -8,6 +8,11 @@
          "type": "separator",
          "label": "Category"
       },
+       {
+         "icon": "sentiment-satisfied-alt",
+         "label": "Κινούμενα Σχέδια",
+         "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
+      },
       {
          "icon": "movie",
          "label": "Ταινίες",
@@ -17,11 +22,6 @@
          "icon": "subscriptions",
          "label": "Σειρές",
          "data": "https://sastamaa.github.io/utainies/data/base/series/list.json"
-          },
-      {
-         "icon": "sentiment-satisfied-alt",
-         "label": "Κινούμενα Σχέδια",
-         "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
-      }
+          }
    ]
 }
