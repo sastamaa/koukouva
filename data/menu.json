@@ -11,17 +11,17 @@
       {
          "icon": "movie",
          "label": "Ταινίες",
-         "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
+         "data": "https://sastamaa.github.io/utainies/data/base/movies/list.json"
           },
       {
          "icon": "subscriptions",
          "label": "Σειρές",
-         "data": "https://sastamaa.github.io/msx/data/base/series/list.json"
+         "data": "https://sastamaa.github.io/utainies/data/base/series/list.json"
           },
       {
          "icon": "sentiment-satisfied-alt",
          "label": "Κινούμενα Σχέδια",
-         "data": "https://sastamaa.github.io/msx/data/base/kids/list.json"
+         "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
       }
    ]
 }
