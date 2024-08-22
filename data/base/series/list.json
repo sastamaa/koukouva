@@ -9,6 +9,16 @@
    },
    "items": [
        {
+         "title": "Iwájú: Η Πόλη του Αύριο",
+         "titleFooter": "2024",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/fwkMdIOgRaksA3CQPjHL3pyuuR5.jpg",
+         "playerLabel": "Iwájú: Η Πόλη του Αύριο",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/iwaju.json"
+      },
+       {
          "title": "Γουόντλα",
          "titleFooter": "2024",
         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
