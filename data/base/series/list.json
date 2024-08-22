@@ -11,8 +11,8 @@
        {
          "title": "Γουόντλα",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/8kkrmc41lTk6eT2osAMzd4W0cSI.jpg",
          "playerLabel": "Γουόντλα",
