@@ -8,6 +8,16 @@
       "title": "Title"
    },
    "items": [
+       {
+         "title": "Γουόντλα",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/8kkrmc41lTk6eT2osAMzd4W0cSI.jpg",
+         "playerLabel": "Γουόντλα",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/wondla.json"
+      },
      {
          "title": "Kizazi Moto: Γενιά Φωτιά",
          "titleFooter": "2023",
@@ -16,7 +26,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/s3zL1YZrUTUUQtJFXAyEANAWxBR.jpg",
          "playerLabel": "Kizazi Moto: Γενιά Φωτιά",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/series/kizazi_moto.json"
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/kizazi_moto.json"
       }
    ]
 }
