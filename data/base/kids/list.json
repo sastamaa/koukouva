@@ -17,6 +17,16 @@
       }
    },
    "items": [
+        {
+         "title": "Γκάρφιλντ: Γάτος με πέταλα",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/vRoIbD0U5UMuzympgiN8AIpRaxe.jpg",
+         "playerLabel": "Γκάρφιλντ: Γάτος με πέταλα",
+         "action": "video:https://www.sw.vidce.net/d/6Nd5I3ZapgAJOK0qxzZMfQ79.131.136.75/1724923562/video/2015/tt5779228GR.mp4"
+      },
        {
          "title": "Εγώ, ο Απαισιότατος 4",
          "titleFooter": "2024",
