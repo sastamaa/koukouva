@@ -8,6 +8,16 @@
       "title": "Title"
    },
    "items": [
+       {
+         "title": "Γιατρός Ντούγκι Καμιλόχα",
+         "titleFooter": "2021",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/koGPIE8RtW5ECfpf1ZUB9PCca4A.jpg",
+         "playerLabel": "Γιατρός Ντούγκι Καμιλόχα",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/doogie_kamealoha.json"
+      },
          {
          "title": "Το Καλοκαίρι που Ξύπνησα Όμορφη",
          "titleFooter": "2022",
