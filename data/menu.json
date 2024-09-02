@@ -22,6 +22,11 @@
          "icon": "subscriptions",
          "label": "Σειρές",
          "data": "https://sastamaa.github.io/utainies/data/base/series/list.json"
+          },
+       {
+         "icon": "people",
+         "label": "Σειρές Οικογενειακές",
+         "data": "https://sastamaa.github.io/utainies/data/base/series_family/list.json"
           }
    ]
 }
