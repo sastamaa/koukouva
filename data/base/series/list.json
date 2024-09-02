@@ -8,6 +8,16 @@
       "title": "Title"
    },
    "items": [
+      {
+         "title": "Geek Girl",
+         "titleFooter": "2024",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
+         "playerLabel": "Geek Girl",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/geek_girl.json"
+      },
        {
          "title": "Iwájú: Η Πόλη του Αύριο",
          "titleFooter": "2024",
