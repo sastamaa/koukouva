@@ -1,0 +1,42 @@
+{
+   "type": "list",
+   "headline": "Ο Χάρι Πότερ",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Ο Λαβύρινθος",
+         "titleFooter": "2014",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/azfzbf7OPaLGpqkbC7xPULazGQ7.jpg",
+         "playerLabel": "Ο Λαβύρινθος",
+         "action": "video:https://www.nd.vidce.net/d/LQQt2mL9vnBw8gmOcWWVSg/1725905228/video/2015/tt1790864.mp4"
+      },
+      {
+         "title": "Ο Λαβύρινθος: Πύρινες Δοκιμασίες",
+         "titleFooter": "2015",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/r0ml3jbcxtL4qGxc8umYyXcuAO9.jpg",
+         "playerLabel": "Ο Λαβύρινθος: Πύρινες Δοκιμασίες",
+         "action": "video:https://www.nd.vidce.net/d/ag4RRXPqt-UEM6bkA2kDTw/1725905347/video/2015/tt4046784.mp4"
+      },
+      {
+         "title": "Ο Λαβύρινθος: Η Τελική Δοκιμασία",
+         "titleFooter": "2018",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tpwwo8lQLWUFDRRlscy1ojnDv3e.jpg",
+         "playerLabel": "Ο Λαβύρινθος: Η Τελική Δοκιμασία",
+         "action": "video:https://www.sw.vidce.net/d/djqHhTVtBeV5vvELcjzCgQ/1725905417/video/2015/tt4500922.mp4"
+      }
+   ]
+}
