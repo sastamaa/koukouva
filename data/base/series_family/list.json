@@ -8,6 +8,16 @@
       "title": "Title"
    },
    "items": [
+         {
+         "title": "Το Καλοκαίρι που Ξύπνησα Όμορφη",
+         "titleFooter": "2022",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zpT6VqztHJo8BEQm5BQQLgVf9DP.jpg",
+         "playerLabel": "Το Καλοκαίρι που Ξύπνησα Όμορφη",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/the_summer.json"
+      },
       {
          "title": "XO, Kitty",
          "titleFooter": "2023",
