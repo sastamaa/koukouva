@@ -11,7 +11,7 @@
        {
          "title": "Γιατρός Ντούγκι Καμιλόχα",
          "titleFooter": "2021",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+        "badge": "{col:msx-white}ΥΠ.",
          "badgeColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/koGPIE8RtW5ECfpf1ZUB9PCca4A.jpg",
@@ -21,7 +21,7 @@
          {
          "title": "Το Καλοκαίρι που Ξύπνησα Όμορφη",
          "titleFooter": "2022",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+        "badge": "{col:msx-white}ΥΠ.",
          "badgeColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/zpT6VqztHJo8BEQm5BQQLgVf9DP.jpg",
@@ -31,7 +31,7 @@
       {
          "title": "XO, Kitty",
          "titleFooter": "2023",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+        "badge": "{col:msx-white}ΥΠ.",
          "badgeColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/fZ4iVjofRsr16gwfc8J883gOt1n.jpg",
@@ -41,7 +41,7 @@
        {
          "title": "My Life with the Walter Boys",
          "titleFooter": "2024",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+        "badge": "{col:msx-white}ΥΠ.",
          "badgeColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
@@ -51,7 +51,7 @@
       {
          "title": "Geek Girl",
          "titleFooter": "2024",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+        "badge": "{col:msx-white}ΥΠ.",
          "badgeColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
