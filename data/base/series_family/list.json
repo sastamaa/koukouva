@@ -1,0 +1,42 @@
+{
+   "type": "list",
+   "headline": "Series",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "XO, Kitty",
+         "titleFooter": "2023",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/fZ4iVjofRsr16gwfc8J883gOt1n.jpg",
+         "playerLabel": "XO, Kitty",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/xo_kitty.json"
+      },
+       {
+         "title": "My Life with the Walter Boys",
+         "titleFooter": "2024",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+         "playerLabel": "My Life with the Walter Boys",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/walter_boys.json"
+      },
+      {
+         "title": "Geek Girl",
+         "titleFooter": "2024",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
+         "playerLabel": "Geek Girl",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/geek_girl.json"
+      }
+   ]
+}
