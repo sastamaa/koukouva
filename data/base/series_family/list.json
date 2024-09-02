@@ -16,7 +16,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/fZ4iVjofRsr16gwfc8J883gOt1n.jpg",
          "playerLabel": "XO, Kitty",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/xo_kitty.json"
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/xo_kitty.json"
       },
        {
          "title": "My Life with the Walter Boys",
@@ -26,7 +26,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
          "playerLabel": "My Life with the Walter Boys",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/walter_boys.json"
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/walter_boys.json"
       },
       {
          "title": "Geek Girl",
@@ -36,7 +36,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
          "playerLabel": "Geek Girl",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/geek_girl.json"
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/geek_girl.json"
       }
    ]
 }
