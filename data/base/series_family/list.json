@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Ο Πέρσι Τζάκσον και οι Ολύμπιοι",
+         "titleFooter": "2023",
+        "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tHSATJbaBSWx3cJ8nAPJyeQbRYh.jpg",
+         "playerLabel": "Ο Πέρσι Τζάκσον και οι Ολύμπιοι",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/percy_jackson.json"
+      },
+      {
          "title": "The Crossover",
          "titleFooter": "2023",
         "badge": "{col:msx-white}ΥΠ.",
