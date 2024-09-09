@@ -17,6 +17,16 @@
       }
    },
    "items": [
+           {
+         "title": "Οικογενειακή Ανταλλαγή",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
+         "playerLabel": "Οικογενειακή Ανταλλαγή",
+         "action": "video:https://www.sw.vidce.net/d/jOFAN1xPvj0BbgvLKVIdtA/1726489943/video/2015/tt14227048.mp4"
+      },
       {
          "title": "Φανταστικοί Φίλοι",
          "titleFooter": "2024",
