@@ -8,6 +8,16 @@
       "title": "Title"
    },
    "items": [
+            {
+         "title": "Sprint",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2KOWUIR5pnl4VjWsVi5D8E43yXd.jpg",
+         "playerLabel": "Sprint",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/sprint.json"
+      },
       {
          "title": "My Life with the Walter Boys",
          "titleFooter": "2024",
