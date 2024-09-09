@@ -8,6 +8,16 @@
       "title": "Title"
    },
    "items": [
+           {
+         "title": "Οδηγός Φόνων για Καλά Κορίτσια",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
+         "playerLabel": "Οδηγός Φόνων για Καλά Κορίτσια",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/guide_to_murder.json"
+      },
             {
          "title": "Sprint",
          "titleFooter": "2024",
