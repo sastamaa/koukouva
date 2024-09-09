@@ -48,6 +48,16 @@
          "playerLabel": "Geek Girl",
          "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/geek_girl.json"
       },
+     {
+         "title": "Το Καταφύγιο του Χάρλαν Κόμπεν ",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/rEDJ0L9xY2SblTsPhghUHTa1VnX.jpg",
+         "playerLabel": "Το Καταφύγιο του Χάρλαν Κόμπεν ",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series_family/list/harlan.json"
+      },
       {
          "title": "XO, Kitty",
          "titleFooter": "2023",
