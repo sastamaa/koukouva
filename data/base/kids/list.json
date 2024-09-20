@@ -77,6 +77,16 @@
          "playerLabel": "O Ωρίωνας και το Σκοτάδι ",
          "action": "video:https://www.sw.vidce.net/d/tgJcUsCbXAuQvr1iOj1JSg79.131.136.75/1724853012/video/2015/tt28066777GR.mp4"
       },
+       {
+         "title": "The Simpsons: Η ταινία",
+         "titleFooter": "2007",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+         "playerLabel": "The Simpsons: Η ταινία",
+         "action": "video:https://www.dropbox.com/scl/fi/rom9ghrq01nopqpgv0ziz/The.Simpsons.Movie.2007.mp4?rlkey=fggmh89bl4fpjf1637nformz4&st=jihtoijv&raw=1"
+      },
       {
          "title": "Ευχή",
          "titleFooter": "2023",
