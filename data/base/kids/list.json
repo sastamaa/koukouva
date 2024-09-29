@@ -77,9 +77,29 @@
          "playerLabel": "O Ωρίωνας και το Σκοτάδι ",
          "action": "video:https://www.sw.vidce.net/d/tgJcUsCbXAuQvr1iOj1JSg79.131.136.75/1724853012/video/2015/tt28066777GR.mp4"
       },
+        {
+         "title": "Η Ιστορία των Παιχνιδιών 4",
+         "titleFooter": "2019",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/qWsD3Uf25SMrj32MRLubCs7jozh.jpg",
+         "playerLabel": "Η Ιστορία των Παιχνιδιών 4",
+         "action": "video:https://www.dropbox.com/scl/fi/9mh0tnbgye4ljhymskdmu/Toy-Story-4-2019.mp4?rlkey=iqzszs8qg96vtbdwjeah2pfjy&st=s1oi7tgv&raw=1"
+      },
+         {
+         "title": "Μετα-Μορφωμένοι Πράκτορες",
+         "titleFooter": "2019",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2z9olMQ0DjdMuSlrO6Qn924RKCy.jpg",
+         "playerLabel": "Μετα-Μορφωμένοι Πράκτορες",
+         "action": "video:https://www.dropbox.com/scl/fi/x75h9x5fn11quvuclxcgh/Spies-in-Disguise-2019.mp4?rlkey=4b0xfi3fubcvax9xkyl8ugfj5&st=a1a999dw&raw=1"
+      },
        {
          "title": "Μπάτε σκύλοι αλέστε 2",
-         "titleFooter": "2009",
+         "titleFooter": "2019",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
