@@ -8,15 +8,11 @@
       "title": "Title"
    },
    "items": [
-           {
+          {
          "title": "Οικογενειακή Ανταλλαγή",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΥΠ.",
-         "badgeColor": "msx-red",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
-         "playerLabel": "Οικογενειακή Ανταλλαγή",
-         "action": "video:link:details.json?id=14227048"
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/798021.json"
       },
       {
          "title": "Φανταστικοί Φίλοι",
