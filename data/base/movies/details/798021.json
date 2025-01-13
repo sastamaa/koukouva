@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Οικογενειακή Ανταλλαγή (2023)",
+   "background": "https://image.tmdb.org/t/p/w1280/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Οικογενειακή Ανταλλαγή",
+               "action": "video:https://www.sw.vidce.net/d/ILcFJyOvUTNX4ogHMrAXng/1737414202/video/2015/tt14227048.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Οικογενειακή Ανταλλαγή (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=g1UDiXJRSRY"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Κωμωδία | Οικογενειακή | Φαντασίας",
+               "color": "msx-glass",
+               "titleFooter": "Μια οικογένεια ζει το χάος λίγο πριν από τα Χριστούγεννα όταν ένα σπάνιο συμπαντικό γεγονός έχει ως αποτέλεσμα οι γονείς να αλλάξουν σώματα με τα νεαρά παιδιά τους.{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
