@@ -1,7 +1,8 @@
 {
-   "movies": [
+   "type": "details",
+   "headline": "Movie Details",
+   "entries": [
       {
-         "id": "14227048",
          "title": "Οικογενειακή Ανταλλαγή",
          "headline": "2023 • Family/Comedy",
          "description": "An exciting family adventure full of twists and emotions!",
@@ -18,7 +19,6 @@
          ]
       },
       {
-         "id": "11152168",
          "title": "Φανταστικοί Φίλοι",
          "headline": "2024 • Fantasy/Adventure",
          "description": "A heartwarming tale of imaginary friends and real adventures.",
