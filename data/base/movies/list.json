@@ -16,7 +16,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
          "playerLabel": "Οικογενειακή Ανταλλαγή",
-         "action": "video:https://www.sw.vidce.net/d/jOFAN1xPvj0BbgvLKVIdtA/1726489943/video/2015/tt14227048.mp4"
+         "action": "video:link:details.json?id=14227048"
       },
       {
          "title": "Φανταστικοί Φίλοι",
@@ -26,7 +26,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/iByZwrOEahK9riNyyHsO9O59qb8.jpg",
          "playerLabel": "Φανταστικοί Φίλοι",
-         "action": "video:https://www.sw.vidce.net/d/CYBZrmAGbUn8tKqc-PzVhQ79.129.130.38/1725881998/video/2015/tt11152168GR.mp4"
+         "action": "video:link:details.json?id=11152168"
       },
          {
          "title": "Ο Βασιλιάς των Λιονταριών",
