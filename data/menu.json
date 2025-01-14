@@ -19,11 +19,6 @@
          "data": "https://sastamaa.github.io/utainies/data/base/series/list.json"
           },
        {
-         "icon": "people",
-         "label": "Family Series",
-         "data": "https://sastamaa.github.io/utainies/data/base/series_family/list.json"
-          },
-       {
          "icon": "sentiment-satisfied-alt",
          "label": "Kids",
          "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
