@@ -8,25 +8,25 @@
          "type": "separator",
          "label": "Category"
       },
-       {
-         "icon": "sentiment-satisfied-alt",
-         "label": "Κινούμενα Σχέδια",
-         "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
-      },
       {
          "icon": "movie",
-         "label": "Ταινίες",
+         "label": "Movies",
          "data": "https://sastamaa.github.io/utainies/data/base/movies/list.json"
           },
       {
          "icon": "subscriptions",
-         "label": "Σειρές",
+         "label": "Series",
          "data": "https://sastamaa.github.io/utainies/data/base/series/list.json"
           },
        {
          "icon": "people",
-         "label": "Σειρές Οικογενειακές",
+         "label": "Family Series",
          "data": "https://sastamaa.github.io/utainies/data/base/series_family/list.json"
-          }
+          },
+       {
+         "icon": "sentiment-satisfied-alt",
+         "label": "Kids",
+         "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
+      }
    ]
 }
