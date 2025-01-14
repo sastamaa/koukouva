@@ -9,6 +9,36 @@
    },
    "items": [
         {
+         "title": "Iwájú: Η Πόλη του Αύριο",
+         "titleFooter": "2024",
+        "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/fwkMdIOgRaksA3CQPjHL3pyuuR5.jpg",
+         "playerLabel": "Iwájú: Η Πόλη του Αύριο",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/kids/series/iwaju.json"
+      },
+       {
+         "title": "Γουόντλα",
+         "titleFooter": "2024",
+        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/8kkrmc41lTk6eT2osAMzd4W0cSI.jpg",
+         "playerLabel": "Γουόντλα",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/kids/series/wondla.json"
+      },
+     {
+         "title": "Kizazi Moto: Γενιά Φωτιά",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/s3zL1YZrUTUUQtJFXAyEANAWxBR.jpg",
+         "playerLabel": "Kizazi Moto: Γενιά Φωτιά",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/kids/series/kizazi_moto.json"
+      },
+        {
          "title": "Γκάρφιλντ: Γάτος με πέταλα",
          "titleFooter": "2024",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
