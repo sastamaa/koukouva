@@ -8,35 +8,105 @@
       "title": "Title"
    },
    "items": [
-       {
-         "title": "Iwájú: Η Πόλη του Αύριο",
+      {
+         "title": "Οδηγός Φόνων για Καλά Κορίτσια",
          "titleFooter": "2024",
-        "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/fwkMdIOgRaksA3CQPjHL3pyuuR5.jpg",
-         "playerLabel": "Iwájú: Η Πόλη του Αύριο",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/iwaju.json"
-      },
-       {
-         "title": "Γουόντλα",
-         "titleFooter": "2024",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badge": "{col:msx-white}ΥΠ.",
          "badgeColor": "msx-red",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/8kkrmc41lTk6eT2osAMzd4W0cSI.jpg",
-         "playerLabel": "Γουόντλα",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/wondla.json"
+         "image": "https://image.tmdb.org/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
+         "playerLabel": "Οδηγός Φόνων για Καλά Κορίτσια",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/guide_to_murder.json"
+      },
+            {
+         "title": "Sprint",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2KOWUIR5pnl4VjWsVi5D8E43yXd.jpg",
+         "playerLabel": "Sprint",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/sprint.json"
+      },
+      {
+         "title": "My Life with the Walter Boys",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+         "playerLabel": "My Life with the Walter Boys",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/walter_boy.json"
+      },
+      {
+         "title": "Geek Girl",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
+         "playerLabel": "Geek Girl",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/geek_girl.json"
       },
      {
-         "title": "Kizazi Moto: Γενιά Φωτιά",
+         "title": "Το Καταφύγιο του Χάρλαν Κόμπεν ",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/s3zL1YZrUTUUQtJFXAyEANAWxBR.jpg",
-         "playerLabel": "Kizazi Moto: Γενιά Φωτιά",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/kizazi_moto.json"
+         "image": "https://image.tmdb.org/t/p/w500/rEDJ0L9xY2SblTsPhghUHTa1VnX.jpg",
+         "playerLabel": "Το Καταφύγιο του Χάρλαν Κόμπεν ",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/harlan.json"
+      },
+      {
+         "title": "XO, Kitty",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/fZ4iVjofRsr16gwfc8J883gOt1n.jpg",
+         "playerLabel": "XO, Kitty",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/xo_kitty.json"
+      },
+      {
+         "title": "Ο Πέρσι Τζάκσον και οι Ολύμπιοι",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tHSATJbaBSWx3cJ8nAPJyeQbRYh.jpg",
+         "playerLabel": "Ο Πέρσι Τζάκσον και οι Ολύμπιοι",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/percy_jackson.json"
+      },
+      {
+         "title": "The Crossover",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ahL7MXhqvTul41uRrKaxycJhbUQ.jpg",
+         "playerLabel": "The Crossover",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/the_crossover.json"
+      },
+      {
+         "title": "Γιατρός Ντούγκι Καμιλόχα",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/koGPIE8RtW5ECfpf1ZUB9PCca4A.jpg",
+         "playerLabel": "Γιατρός Ντούγκι Καμιλόχα",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/doogie_kamealoha.json"
+      },
+      {
+         "title": "Το Καλοκαίρι που Ξύπνησα Όμορφη",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zpT6VqztHJo8BEQm5BQQLgVf9DP.jpg",
+         "playerLabel": "Το Καλοκαίρι που Ξύπνησα Όμορφη",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/the_summer.json"
       }
    ]
 }
