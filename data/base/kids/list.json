@@ -11,381 +11,229 @@
         {
          "title": "Iwájú: Η Πόλη του Αύριο",
          "titleFooter": "2024",
-        "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/fwkMdIOgRaksA3CQPjHL3pyuuR5.jpg",
-         "playerLabel": "Iwájú: Η Πόλη του Αύριο",
          "action": "content:https://sastamaa.github.io/utainies/data/base/kids/series/iwaju.json"
       },
        {
          "title": "Γουόντλα",
          "titleFooter": "2024",
-        "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
-         "badgeColor": "msx-red",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/8kkrmc41lTk6eT2osAMzd4W0cSI.jpg",
-         "playerLabel": "Γουόντλα",
          "action": "content:https://sastamaa.github.io/utainies/data/base/kids/series/wondla.json"
       },
      {
          "title": "Kizazi Moto: Γενιά Φωτιά",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/s3zL1YZrUTUUQtJFXAyEANAWxBR.jpg",
-         "playerLabel": "Kizazi Moto: Γενιά Φωτιά",
          "action": "content:https://sastamaa.github.io/utainies/data/base/kids/series/kizazi_moto.json"
       },
         {
          "title": "Γκάρφιλντ: Γάτος με πέταλα",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/vRoIbD0U5UMuzympgiN8AIpRaxe.jpg",
-         "playerLabel": "Γκάρφιλντ: Γάτος με πέταλα",
          "action": "video:https://www.sw.vidce.net/d/6Nd5I3ZapgAJOK0qxzZMfQ79.131.136.75/1724923562/video/2015/tt5779228GR.mp4"
       },
        {
          "title": "Εγώ, ο Απαισιότατος 4",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
-         "badgeColor": "msx-red",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/lngj6f7sJ6P1us84RPs2ZLTKPYB.jpg",
-         "playerLabel": "Εγώ, ο Απαισιότατος 4",
          "action": "video:https://www.sw.vidce.net/d/hvFrmt5izhIOtvCEqr3vkg/1724831585/video/2015/tt7510222.mp4"
       },
       {
          "title": "Τα μυαλά που κουβαλάς 2",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
-         "badgeColor": "msx-red",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/htIJ70YqNxFEU81uBcGWbUpbxW2.jpg",
-         "playerLabel": "Τα μυαλά που κουβαλάς 2",
          "action": "video:https://www.sw.vidce.net/d/8d8vOktiQH8Uu6_4RCFMkw/1724831261/video/2015/tt22022452.mp4"
       },
       {
          "title": "Kung Fu Panda 4",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/5Thi1uDkkUaQsyh1cMQy3MPKIdw.jpg",
-         "playerLabel": "Kung Fu Panda 4",
          "action": "video:https://www.sw.vidce.net/d/aKTITuoe2ygDLv--A83sHA94.69.51.76/1724066414/video/2015/tt21692408GR.mp4"
       },
       {
          "title": "Βυθός του Μπικίνι SOS: Η Ταινία της Σάντι",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
-         "playerLabel": "Βυθός του Μπικίνι SOS: Η Ταινία της Σάντι",
          "action": "video:https://www.sw.vidce.net/d/Klna0A4Eo27Sv4jAmdixOg/1724066249/video/2015/tt23063732GR.mp4"
       },
       {
          "title": "O Ωρίωνας και το Σκοτάδι ",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/oT53tpbp12PfJ0ifCs71Viue8R8.jpg",
-         "playerLabel": "O Ωρίωνας και το Σκοτάδι ",
          "action": "video:https://www.sw.vidce.net/d/tgJcUsCbXAuQvr1iOj1JSg79.131.136.75/1724853012/video/2015/tt28066777GR.mp4"
       },
         {
          "title": "Η Ιστορία των Παιχνιδιών 4",
          "titleFooter": "2019",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/qWsD3Uf25SMrj32MRLubCs7jozh.jpg",
-         "playerLabel": "Η Ιστορία των Παιχνιδιών 4",
          "action": "video:https://www.dropbox.com/scl/fi/9mh0tnbgye4ljhymskdmu/Toy-Story-4-2019.mp4?rlkey=iqzszs8qg96vtbdwjeah2pfjy&st=s1oi7tgv&raw=1"
       },
          {
          "title": "Μετα-Μορφωμένοι Πράκτορες",
          "titleFooter": "2019",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/eMJrEUALo4BedGuDMoP9N6sl8IM.jpg",
-         "playerLabel": "Μετα-Μορφωμένοι Πράκτορες",
          "action": "video:https://www.dropbox.com/scl/fi/x75h9x5fn11quvuclxcgh/Spies-in-Disguise-2019.mp4?rlkey=4b0xfi3fubcvax9xkyl8ugfj5&st=a1a999dw&raw=1"
       },
        {
          "title": "Μπάτε σκύλοι αλέστε 2",
          "titleFooter": "2019",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/oRk82bs38iIxPRsbdVqBJBSKbIw.jpg",
-         "playerLabel": "Μπάτε σκύλοι αλέστε 2",
          "action": "video:https://www.dropbox.com/scl/fi/d3dsl3g0j2861bbpgooer/The.Secret.Life.Of.Pets.2.2019.mp4?rlkey=o3c2pbo40c7zpj0eptu33x249&st=rs5vf71y&raw=1"
       },
        {
          "title": "The Simpsons: Η ταινία",
          "titleFooter": "2007",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
-         "playerLabel": "The Simpsons: Η ταινία",
          "action": "video:https://www.dropbox.com/scl/fi/rom9ghrq01nopqpgv0ziz/The.Simpsons.Movie.2007.mp4?rlkey=fggmh89bl4fpjf1637nformz4&st=jihtoijv&raw=1"
       },
       {
          "title": "Ευχή",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/t078nmhOVRrSJw4OcqbO4dvhIW7.jpg",
-         "playerLabel": "Ευχή",
          "action": "video:https://www.sw.vidce.net/d/6RqRqxGYbtHtYwPbJei-9g79.131.136.75/1724853102/video/2015/tt11304740GR.mp4"
       },
       {
          "title": "Οι Ευχούληδες 3: Μαζί για μπάντα",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2ij5LYwmueIqw2MKG3RTQNDhRgX.jpg",
-         "playerLabel": "Οι Ευχούληδες 3: Μαζί για μπάντα",
          "action": "video:https://www.sw.vidce.net/d/2HgIxv2w3Fhy7V3qPQQMSg79.131.136.75/1724853129/video/2015/tt14362112GR.mp4"
       },
       {
          "title": "Λίο",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
-         "playerLabel": "Λίο",
          "action": "video:https://www.sw.vidce.net/d/LXDTDr0sXYzxdd436OvFMQ79.131.136.75/1724853155/video/2015/tt5755238GR.mp4"
       },
       {
          "title": "Αργοναυτεσ: Η Οργη Του Ποσειδωνα",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2AijHzAC7KLQxSmceEIF0nXpNDk.jpg",
-         "playerLabel": "Αργοναυτεσ: Η Οργη Του Ποσειδωνα",
          "action": "video:https://www.sw.vidce.net/d/61lzml4OZfoOc4N0CfRaBg/1724853192/video/2015/tt22360682.mp4"
       },
       {
          "title": "Ρούμπι: Ένα κράκεν στην εφηβεία",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/3lcADBs1C4JIlcCfe3Mmwf1Micl.jpg",
-         "playerLabel": "Ρούμπι: Ένα κράκεν στην εφηβεία",
          "action": "video:https://www.sw.vidce.net/d/tsFeyOSmyJ1fL5sLqzov4A79.131.136.75/1724853223/video/2015/tt27155038GR.mp4"
       },
       {
          "title": "Ο Γκριντς",
          "titleFooter": "2018",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/ejvBAxSqmge3xJucgsiTv78xQfB.jpg",
-         "playerLabel": "Ο Γκριντς",
          "action": "video:https://www.sw.vidce.net/d/02Iwq8NaGzOFg6IEetw5OA79.131.136.75/1724853255/2018/2015/tt2709692RG.mp4"
       },
       {
          "title": "Spider-Man: Ακροβατώντας στο Αραχνο-Σύμπαν",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/apscHT6dOojeEaY7bPo3Op9H3kK.jpg",
-         "playerLabel": "Spider-Man: Ακροβατώντας στο Αραχνο-Σύμπαν",
          "action": "https://www.sw.vidce.net/d/5pnsb_9R3KlpGRm0wIIb1w79.131.136.75/1724853282/video/2015/tt9362722GR.mp4"
       },
       {
          "title": "Στο στοιχείο τους",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/bHJVxz06MqeRFI1fsyOBUYTT7gb.jpg",
-         "playerLabel": "Στο στοιχείο τους",
          "action": "video:https://www.sw.vidce.net/d/Yd3phXguCxXKz4jqZc81XQ79.131.136.75/1724853312/video/2015/tt15789038GR.mp4"
       },
       {
          "title": "Σκούμπι-Ντου (1-4)",
          "titleFooter": "2007 - 2020",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/zG2l9Svw4PTldWJAzC171Y3d6G8.jpg",
-         "playerLabel": "Σκούμπι-Ντου (1-4)",
          "action": "content:https://sastamaa.github.io/utainies/data/base/kids/parts/scooby.json"
       },
       {
          "title": "Ξενοδοχείο για τέρατα (1-4)",
          "titleFooter": "2012 - 2022",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/znX5Q3O3aP4isoTGtTSVe6XXkPV.jpg",
-         "playerLabel": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
          "action": "content:https://sastamaa.github.io/utainies/data/base/kids/parts/hotel_transylvania.json"
       },
       {
          "title": "Super Mario Bros: Η Ταινία",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/zGqfRbpo1Ko2INAd0N0rnh3iWYU.jpg",
-         "playerLabel": "Super Mario Bros: Η Ταινία",
          "action": "video:https://www.sw.vidce.net/d/GnYMnY2lRYeMG3tzrWD0FA79.131.136.75/1724853342/video/2015/tt6718170GR.mp4"
       },
       {
          "title": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/uM1N0WWdZanBUYooDueLP3g7OFr.jpg",
-         "playerLabel": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
          "action": "video:https://www.sw.vidce.net/d/VsaP9g4Bk0bPdzzDMNSi-g/1724853382/video/2015/tt12532368GR.mp4"
       },
       {
          "title": "Καρό νίντζα 2",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/br4cz2T4MILN5hglBkkPfCLiHPf.jpg",
-         "playerLabel": "Καρό Νίντζα: Επικίνδυνη Αποστολή",
          "action": "video:https://www.sw.vidce.net/d/cOd2El8s6WaZHnq4sYljRQ/1724853408/video/2015/tt13387604GR.mp4"
       },
       {
          "title": "Καρό νίντζα",
          "titleFooter": "2019",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/resxyktdz35rMbcxoFbFuvC6KhH.jpg",
-         "playerLabel": "Καρό νίντζα",
          "action": "video:https://www.sw.vidce.net/d/wyKo8NgtmosKw9C_E7GgXA/1724853431/video/2015/tt7367960.mp4"
       },
       {
          "title": "Ενκάντο",
          "titleFooter": "2021",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/gFIfJQdsDXo3oEeugbIUIOEhJDW.jpg",
-         "playerLabel": "Ενκάντο: Ένας κόσμος μαγικός",
          "action": "video:http://www.sw.vidce.net/d/Co2N50EY0Kn2JS_2nmTqBA79.131.136.75/1724853461/video/2015/tt2953050GR.mp4"
       },
       {
          "title": "Monstermania",
          "titleFooter": "2021",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg",
-         "playerLabel": "Monstermania",
          "action": "video:https://www.sw.vidce.net/d/ABRnA8sEXIu9_7T_y9shTQ79.131.136.75/1724853497/video/2015/tt8337158GR.mp4"
       },
       {
          "title": "Άινμπο: Πριγκίπισσα του Αμαζονίου",
          "titleFooter": "2021",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/13MNtYVi3ieMceZuwKX0XvPWmPd.jpg",
-         "playerLabel": "Άινμπο: Πριγκίπισσα του Αμαζονίου",
          "action": "video:https://www.sw.vidce.net/d/-MZdqUXidDJQJmPt70S-XA79.131.136.75/1724853525/video/2015/tt6570098GR.mp4"
       },
       {
          "title": "Παράξενος κόσμος",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2s7f5991JUNgRGnedSeKB0LEK7c.jpg",
-         "playerLabel": "Παράξενος κόσμος",
          "action": "https://www.sw.vidce.net/d/SaLwpouo7wU3okUVsImS6A79.131.136.75/1724853550/video/2015/tt10298840GR.mp4"
       },
       {
          "title": "Ο Παπουτσωμένος Γάτος: Η τελευταία επιθυμία",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/r7WgPcXNIfomdQyOYazNFbJjxbS.jpg",
-         "playerLabel": "Ο Παπουτσωμένος Γάτος: Η τελευταία επιθυμία",
          "action": "video:https://www.sw.vidce.net/d/vpvard-7L9_OYDl_KPvpiA79.131.136.75/1724853577/video/2015/tt3915174GR.mp4"
       },
       {
          "title": "Soul",
          "titleFooter": "2020",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/iBzJ4IrzTIwjklkbUxeNSacaASt.jpg",
-         "playerLabel": "Soul",
          "action": "video:https://www.dropbox.com/scl/fi/1majlcq260dfpvs1po7mw/Soul.2020.1080p.mp4?rlkey=3ruisrilqnsebqyw66tlzyzb7&st=drnd5qi8&raw=1"
       },
       {
          "title": "Βαϊάνα",
          "titleFooter": "2016",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/DSen38zMhnuJNUJHA58y8bzoaJ.jpg",
-         "playerLabel": "Βαϊάνα",
          "action": "video:https://www.dropbox.com/scl/fi/omzhqyb6fiirh83m3raob/Moana..mp4?rlkey=7konnf71jvhi3tecptvnm0v8c&st=b7i8w6l6&raw=1"
       },
       {
          "title": "Ρατατούης",
          "titleFooter": "2007",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/qtsZeDpSzB9mlXRkE3h2KyRrdUs.jpg",
-         "playerLabel": "Ρατατούης",
          "action": "video:https://www.sw.vidce.net/d/7GlPtOMmymMY0uyVJS_oiA79.131.136.75/1724853682/video/2015/tt3915174GR.mp4"
       },
       {
          "title": "Η DC λεγεώνα από τα σούπερ-κατοικίδια",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
-         "playerLabel": "Η DC λεγεώνα από τα σούπερ-κατοικίδια",
          "action": "video:https://www.sw.vidce.net/d/Yr3FibtqPOA4CSdVzEpdCg79.131.136.75/1724853736/video/2015/tt8912936GR.mp4"
       },
       {
          "title": "Minions 2: Η άνοδος του Γκρου",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
-         "playerLabel": "Minions 2: Η άνοδος του Γκρου",
          "action": "video:https://www.sw.vidce.net/d/B0x5E1zUPv1u8f8aNCrl_Q79.131.136.75/1724853759/video/2015/tt5113044GR.mp4"
       },
       {
          "title": "Γέτι: Ο χιονάνθρωπος των Ιμαλαΐων",
          "titleFooter": "2019",
-         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/ufroFZ7vr8PTGPbIqzrN5x6xcGa.jpg",
-         "playerLabel": "Γέτι: Ο χιονάνθρωπος των Ιμαλαΐων",
          "action": "video:https://www.dropbox.com/scl/fi/gtk8le6my4701w8egqu14/Abominable-2019.mp4?rlkey=vd9buk6xw5gyh1vn9ssbw8joq&st=4exh3swy&raw=1"
       }
    ]
