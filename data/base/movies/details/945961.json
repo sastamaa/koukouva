@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Alien: Romulus (2024)",
+   "background": "https://image.tmdb.org/t/p/w1280/eP4RZSHliWu6lPT5WQyHr5ZZKuC.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/6bqjdbh04NfpQQ5hYJQRWqnoXlL.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Alien: Romulus",
+               "action": "video:https://www.sw.vidce.net/d/QTI17ZsbUtipTusgLgXXeg/1737558921/video/2015/tt18412256.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Alien: Romulus (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=qEBgagZWdXs"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Τρόμου | Επ. Φαντασίας",
+               "color": "msx-glass",
+               "titleFooter": "Εξερευνώντας τα βάθη ενός εγκαταλειµµένου διαστηµικού σταθµού, µια οµάδα νεαρών αποικιστών του διαστήµατος έρχονται αντιµέτωποι µε την πιο τροµακτική µορφή ζωής στο σύµπαν.{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
