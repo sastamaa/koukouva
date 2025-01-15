@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Culpa tuya (2024)",
+   "background": "https://image.tmdb.org/t/p/w1280/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Culpa tuya",
+               "action": "video:https://www.sw.vidce.net/d/jgh1x0_VUbbdR3erjy2Ttg/1737559349/video/2015/tt28510079.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Culpa tuya (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=m_TWESxP_DE"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Ρομαντική | Δράμα",
+               "color": "msx-glass",
+               "titleFooter": "Ένα σίκουελ της παγκόσμιας επιτυχίας Culpa Mía. Η αγάπη της Νόα και του Νικ μοιάζει ακλόνητη παρά τις προσπάθειες των γονιών τους να τους χωρίσουν. Αλλά η δουλειά του και οι σπουδές της τους οδηγούν σε νέες σχέσεις που θα ταρακουνήσουν τόσο τη σχέση τους όσο και την οικογένεια Λέιστερ. Όταν τόσοι άνθρωποι θέλουν να καταστρέψουν μια σχέση, μπορεί όντως να έχει αίσιο τέλος;{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
