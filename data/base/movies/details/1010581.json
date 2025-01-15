@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Culpa mía (2023)",
+   "background": "https://image.tmdb.org/t/p/w1280/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Culpa mía",
+               "action": "video:https://www.sw.vidce.net/d/lzN5nyh43bsFCbmq39M0bg/1737559484/video/2015/tt21909764.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Culpa mía (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=3CpKBAPqqM0"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Ρομαντική | Δράμα",
+               "color": "msx-glass",
+               "titleFooter": "Η Νόα πρέπει να αφήσει πίσω την πόλη, το αγόρι και τις φίλες της και να μετακομίσει στη βίλα του νέου συζύγου της μητέρας της. Εκεί γνωρίζει τον Νικ, τον νέο της ετεροθαλή αδερφό, και οι προσωπικότητές τους έρχονται σε σύγκρουση. Αλλά η έλξη που νιώθουν οδηγεί σε μια απαγορευμένη σχέση, όπου οι αντιδραστικοί τους χαρακτήρες φέρνουν τα πάνω κάτω και τους κάνουν να ερωτευτούν παράφορα.{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
