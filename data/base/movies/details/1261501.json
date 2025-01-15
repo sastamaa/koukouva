@@ -1,0 +1,39 @@
+{
+   "type": "pages",
+   "headline": "Ad Vitam (2025)",
+   "background": "https://image.tmdb.org/t/p/w1280/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Ad Vitam",
+               "action": "video:https://www.sw.vidce.net/d/e4qm3uK4WJvfl5QhrnaOkQ/1737558186/video/2015/tt32138452.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Ad Vitam (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=bilfgVge1GA"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Θρίλερ | Δράση | Αστυνομική",
+               "color": "msx-glass",
+               "titleFooter": "Όταν ο ίδιος και η έγκυος γυναίκα του δέχονται επίθεση στο σπίτι τους, ένας πρώην επίλεκτος πράκτορας μπλέκεται σε ένα ανθρωποκυνηγητό που συνδέεται με το παρελθόν του.{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
+
