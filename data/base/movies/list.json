@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "headline": "Kids",
+   "headline": "Movies",
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
@@ -8,6 +8,36 @@
       "title": "Title"
    },
    "items": [
+        {
+         "title": "Culpa tuya",
+         "titleFooter": "2024",
+         "image": "https://image.tmdb.org/t/p/w500/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/1156593.json"
+      },
+        {
+         "title": "Culpa mía",
+         "titleFooter": "2023",
+         "image": "https://image.tmdb.org/t/p/w500/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/1010581.json"
+      },
+        {
+         "title": "Η Επιστροφή",
+         "titleFooter": "2024",
+         "image": "https://image.tmdb.org/t/p/w500/9H0J56KbfVkUQY1hgtyToroOrtB.jpg",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/975511.json"
+      },
+        {
+         "title": "Alien: Romulus",
+         "titleFooter": "2024",
+         "image": "https://image.tmdb.org/t/p/w500/6bqjdbh04NfpQQ5hYJQRWqnoXlL.jpg",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/945961.json"
+      },
+        {
+         "title": "Ad Vitam",
+         "titleFooter": "2025",
+         "image": "https://image.tmdb.org/t/p/w500/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/1261501.json"
+      },
           {
          "title": "Οικογενειακή Ανταλλαγή",
          "titleFooter": "2023",
