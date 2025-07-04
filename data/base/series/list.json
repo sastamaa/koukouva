@@ -9,6 +9,13 @@
    },
    "items": [
       {
+   "title": "Μαθαίνω να λέω “Γεια σου” με τον Κούκι",
+   "imageFiller": "cover",
+   "image": "https://img.youtube.com/vi/4lZXtCjOc1w/0.jpg",
+   "playerLabel": "Παιδικό YouTube",
+   "action": "plugin:youtube?id=4lZXtCjOc1w"
+},
+      {
          "title": "Οδηγός Φόνων για Καλά Κορίτσια",
          "titleFooter": "2024",
          "badge": "{col:msx-white}ΥΠ.",
