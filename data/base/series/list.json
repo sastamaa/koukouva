@@ -13,7 +13,7 @@
    "imageFiller": "cover",
    "image": "https://img.youtube.com/vi/4lZXtCjOc1w/0.jpg",
    "playerLabel": "Παιδικό YouTube",
-   "action": "plugin:youtube?id=4lZXtCjOc1w"
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=4lZXtCjOc1w"
 },
       {
          "title": "Οδηγός Φόνων για Καλά Κορίτσια",
