@@ -11,17 +11,17 @@
       {
          "icon": "movie",
          "label": "Movies",
-         "data": "https://sastamaa.github.io/utainies/data/base/movies/list.json"
+         "data": "https://sastamaa.github.io/koukouva/data/base/movies/list.json"
           },
       {
          "icon": "subscriptions",
          "label": "Series",
-         "data": "https://sastamaa.github.io/utainies/data/base/series/list.json"
+         "data": "https://sastamaa.github.io/koukouva/data/base/series/list.json"
           },
        {
          "icon": "sentiment-satisfied-alt",
          "label": "Kids",
-         "data": "https://sastamaa.github.io/utainies/data/base/kids/list.json"
+         "data": "https://sastamaa.github.io/koukouva/data/base/kids/list.json"
       }
    ]
 }
