@@ -8,101 +8,91 @@
       "title": "Title"
    },
    "items": [
-        {
-         "title": "Culpa tuya",
-         "titleFooter": "2024",
-         "image": "https://image.tmdb.org/t/p/w500/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/1156593.json"
-      },
-        {
-         "title": "Culpa mía",
-         "titleFooter": "2023",
-         "image": "https://image.tmdb.org/t/p/w500/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/1010581.json"
-      },
-        {
-         "title": "Η Επιστροφή",
-         "titleFooter": "2024",
-         "image": "https://image.tmdb.org/t/p/w500/9H0J56KbfVkUQY1hgtyToroOrtB.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/975511.json"
-      },
-        {
-         "title": "Alien: Romulus",
-         "titleFooter": "2024",
-         "image": "https://image.tmdb.org/t/p/w500/6bqjdbh04NfpQQ5hYJQRWqnoXlL.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/945961.json"
-      },
-        {
-         "title": "Ad Vitam",
-         "titleFooter": "2025",
-         "image": "https://image.tmdb.org/t/p/w500/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/1261501.json"
-      },
           {
          "title": "Οικογενειακή Ανταλλαγή",
          "titleFooter": "2023",
+                      "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
          "image": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/details/798021.json"
+         "action": "video:https://www.sw.vidce.net/d/ONvcU1qPvB9QPIadYUv15Q/1752504164/video/2015/tt14227048.mp4"
       },
-      {
+        {
          "title": "Φανταστικοί Φίλοι",
          "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/iByZwrOEahK9riNyyHsO9O59qb8.jpg",
-         "action": "video:link:details.json?id=11152168"
-      },
-         {
-         "title": "Ο Βασιλιάς των Λιονταριών",
-         "titleFooter": "2019",
-         "image": "https://image.tmdb.org/t/p/w500/63QnvxDwcmz4aFkTT9louRiKkSY.jpg",
-         "action": "video:https://www.dropbox.com/scl/fi/akvnfkbwa2jx97fn3i543/The-Lion-King-2019.mp4?rlkey=zhsrdi2jon4r51giptnplva72&st=rkaz40bp&raw=1"
+         "playerLabel": "Φανταστικοί Φίλοι",
+         "action": "video:https://www.sw.vidce.net/d/2bcRUqb7jieKvrX8q5R8Tw/1752504113/video/2015/tt11152168GR.mp4"
       },
         {
          "title": "Sonic: Η Ταινία",
          "titleFooter": "2020",
+                  "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
          "image": "https://image.tmdb.org/t/p/w500/l4m3ftIOfKnuSVXvTIYN3zREGap.jpg",
          "action": "video:https://www.dropbox.com/scl/fi/4pw0lack3kpq7rg83a69x/Sonic-the-Hedgehog-2020.mp4?rlkey=riyod3r4zihzu6layt0hqja4h&st=0h4xhvqv&raw=1"
       },
       {
-         "title": "Ο Λαβύρινθος (1-3)",
-         "titleFooter": "2014 - 2018",
-         "image": "https://image.tmdb.org/t/p/w500/azfzbf7OPaLGpqkbC7xPULazGQ7.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/parts/maze_runner.json"
-      },
-      {
          "title": "Ο Χάρι Πότερ (1-8)",
          "titleFooter": "2001 - 2011",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/c0PYz2lBEzItrOw18PNJ4pAUUij.jpg",
-         "action": "content:https://sastamaa.github.io/utainies/data/base/movies/parts/harry_potter.json"
+         "playerLabel": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/parts/harry_potter.json"
       },
-      {
+       {
          "title": "How the Grinch Stole Christmas",
          "titleFooter": "2000",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/qYYIxgm9qxz1Fvu6mA6gKs9iLZC.jpg",
-         "action": "video:https://www.nd.vidce.net/d/i8Cd-r7SH469kxapMQuybQ/1725882047/video/2015/tt0170016.mp4"
+         "playerLabel": "How the Grinch Stole Christmas",
+         "action": "video:https://www.nd.vidce.net/d/CgncmZu-h8oG14z57EN1SA/1701720029/video/2015/tt0170016.mp4"
       },
       {
          "title": "Η Μαγεμένη 2",
          "titleFooter": "2022",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/7NCcV0ijqEoZMM37ePJSVf1FCkU.jpg",
-         "action": "video:https://www.sw.vidce.net/d/e_vAvqZTIT1Ai1fpcO65zw79.131.136.75/1724853954/video/2015/tt1596342GR.mp4"
+         "playerLabel": "Η Μαγεμένη 2",
+         "action": "video:https://www.sw.vidce.net/d/mEDhp6pI_-DbYzO2AAGMSw79.131.136.123/1691489273/video/2015/tt1596342GR.mp4"
       },
       {
          "title": "Η μικρή γοργόνα",
          "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/fEpjHIeYgxhJA487QhAKGf9n310.jpg",
-         "action": "video:https://www.sw.vidce.net/d/8YCEf0Zk9NKlFOZlEDc7Nw79.131.136.75/1724853978/video/2015/tt5971474GR.mp4"
+         "playerLabel": "Η μικρή γοργόνα",
+         "action": "video:https://www.sw.vidce.net/d/hj333VCTc4ZlNk1Pocb0Wg79.129.153.250/1696183143/video/2015/tt5971474GR.mp4"
       },
-      {
+     {
          "title": "Aladdin",
          "titleFooter": "2019",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/ru8QBcbwoATIsrZFuHJshofBQ7x.jpg",
-         "action": "video:https://www.sw.vidce.net/d/VslrFzNaVO3wbKe2zWpEoA79.131.136.75/1724854003/video/2015/tt6139732GR.mp4"
+         "playerLabel": "Aladdin",
+         "action": "video:https://www.sw.vidce.net/d/xU_lyputh9rgxcyq5qXRzQ/1687764355/video/2015/tt6139732GR.mp4"
       },
       {
          "title": "Dolittle",
          "titleFooter": "2020",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
-         "action": "video:https://www.dropbox.com/scl/fi/7bpi8bwleiz5k6ob6x08g/Dolittle.2020.mp4?rlkey=ovh8v4beuxje0ide82mdg2mj5&st=cmvpv0tu&raw=1"
+         "playerLabel": "Dolittle",
+         "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
       }
    ]
 }
