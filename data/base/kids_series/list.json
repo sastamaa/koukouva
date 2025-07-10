@@ -1,0 +1,20 @@
+{
+   "type": "list",
+   "headline": "Series",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Το Χαρούμενο Σπίτι του Μίκυ Μάους",
+         "titleFooter": "2021",
+         "imageFiller": "cover",
+         "image": "https://i.imgur.com/pwV6q57.png",
+         "playerLabel": "Το Χαρούμενο Σπίτι του Μίκυ Μάους",
+         "action": "content:https://sastamaa.github.io/koukouva/data/base/kids_series/list/mickey_funhouse.json"
+      }
+   ]
+}
