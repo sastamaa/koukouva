@@ -8,6 +8,16 @@
          "type": "separator",
          "label": "Category"
       },
+        {
+         "icon": "sentiment-satisfied-alt",
+         "label": "Kids",
+         "data": "https://sastamaa.github.io/koukouva/data/base/kids/list.json"
+      },
+              {
+         "icon": "sentiment-satisfied-alt",
+         "label": "Kids Series",
+         "data": "https://sastamaa.github.io/koukouva/data/base/kids_series/list.json"
+      },
       {
          "icon": "movie",
          "label": "Movies",
@@ -17,11 +27,6 @@
          "icon": "subscriptions",
          "label": "Series",
          "data": "https://sastamaa.github.io/koukouva/data/base/series/list.json"
-          },
-       {
-         "icon": "sentiment-satisfied-alt",
-         "label": "Kids",
-         "data": "https://sastamaa.github.io/koukouva/data/base/kids/list.json"
-      }
+          }
    ]
 }
