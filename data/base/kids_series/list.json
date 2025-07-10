@@ -15,6 +15,14 @@
          "image": "https://i.imgur.com/pwV6q57.png",
          "playerLabel": "Το Χαρούμενο Σπίτι του Μίκυ Μάους",
          "action": "content:https://sastamaa.github.io/koukouva/data/base/kids_series/list/mickey_funhouse.json"
+      },
+            {
+         "title": "Σούπερ Γατάκια",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://media.greekdubdb.com/images/posters/M/2d9ebfa2836ab623af1f98e779be6b32edcaee547d26a25c2b7399b81762953d.jpg",
+         "playerLabel": "Σούπερ Γατάκια",
+         "action": "content:https://sastamaa.github.io/koukouva/data/base/kids_series/list/super_kitties.json"
       }
    ]
 }
